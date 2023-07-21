@@ -8,14 +8,6 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "Who is the President of US?",
-        a: "Florin Pop",
-        b: "Donald Trump",
-        c: "Ivan Saldano",
-        d: "Mihai Andrei",
-        correct: "b",
-    },
-    {
         question: "What does HTML stand for?",
         a: "Hypertext Markup Language",
         b: "Cascading Style Sheet",
