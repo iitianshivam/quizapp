@@ -31,6 +31,14 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "Foundation year of ISM Dhanbad?",
+        a: "1924",
+        b: "1926",
+        c: "1928",
+        d: "none of the above",
+        correct: "b",
+    },
 ];
 
 const quiz = document.getElementById("quiz");
